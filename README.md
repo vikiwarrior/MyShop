@@ -1,5 +1,7 @@
 # MyShop App
-An e-commerce app which allows users to buy and sell items.
+An e-commerce app which allows users to buy and sell items :moneybag: .
+
+
 Uses Firebase Realtime Database .
 
 ### Installation and Setup
@@ -20,3 +22,5 @@ flutter run
 |:--------------------------|:--------------------------|:--------------------------|
 | ![](assets/images/4.png) | ![](assets/images/5.png) | ![](assets/images/6.png) |
 | ![](assets/images/7.png) |                 
+
+<p align='center'>Made With ❤️ By <a href="https://github.com/vikiwarrior">Vikrant</a></p>
